@@ -1,0 +1,24 @@
+{
+  "name": "zendesk_applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreVicencio/zendesk_applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AndreVicencio/zendesk_applications/issues"
+  },
+  "homepage": "https://github.com/AndreVicencio/zendesk_applications#readme",
+  "devDependencies": {
+    "@zendesk/zcli": "^1.0.0-beta.54"
+  }
+}

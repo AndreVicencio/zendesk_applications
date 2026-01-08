@@ -1,1 +1,72 @@
-#
+# Ignore Node modules (recursive for any subdirectory)
+node_modules/
+**/node_modules/
+
+# Ignore log files
+*.log
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore environment variable files
+.env
+**/.env
+.env.*
+**/.env.*
+
+# Ignore build and output directories
+dist/
+**/dist/
+build/
+**/build/
+
+# Ignore cache and temporary files
+.pnpm-store/
+**/.pnpm-store/
+.cache/
+**/.cache/
+.temp/
+**/.temp/
+
+# Ignore IDE and OS-specific files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+
+# Ignore compiled TypeScript files
+*.tsbuildinfo
+**/*.tsbuildinfo
+
+# Ignore coverage reports
+coverage/
+**/coverage/
+.nyc_output/
+**/.nyc_output/
+
+# Ignore any local .dockerignore or Dockerfile generated files
+.dockerignore
+Dockerfile
+**/Dockerfile
+docker-compose*.yml
+**/docker-compose*.yml
+
+# Ignore specific lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+
+# Ignore misc files
+*.swp
+**/*.swp
+*.swo
+**/*.swo
+
+
