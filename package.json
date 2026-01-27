@@ -13,12 +13,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/AndreVicencio/zendesk_applications/issues"
   },
   "homepage": "https://github.com/AndreVicencio/zendesk_applications#readme",
   "devDependencies": {
-    "@zendesk/zcli": "^1.0.0-beta.54"
+    "@types/node": "^25.0.10",
+    "@zendesk/zcli": "^1.0.0-beta.54",
+    "tsx": "^4.21.0"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "fastify": "^5.7.2"
   }
 }
