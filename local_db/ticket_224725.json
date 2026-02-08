@@ -1,0 +1,138 @@
+{
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "From QS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Asked client for access and backup approval"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Needs work"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Model cloning for reproductions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Turning on RDS then reproduce"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Running full calculation on support clone"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Model name: "
+          },
+          {
+            "type": "text",
+            "text": "andre224725onsemiprodJan20bak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "zTest"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  }
+}

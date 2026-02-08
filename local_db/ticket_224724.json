@@ -1,0 +1,77 @@
+{
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "From QS"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Asked client for access and backup approval"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Needs work"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Model cloning for reproductions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Turning on RDS then reproduce"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Running full calculation on support clone"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  }
+}
